@@ -1,0 +1,41 @@
+body {
+	font-family: Impact, Charcoal, sans-serif;
+    background-image: url("../images/topography.png");
+    margin: auto;
+}
+
+h1 {
+	font-size: 50px;
+	background: #00264d;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+section {
+	font-size: 20px;
+	background: #cce6ff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+
+	margin-bottom: 25px;
+}
+
+div {
+	font-size: 30px;
+	color: #00264d;
+	margin-bottom: 15px;
+	margin-left: 20px;
+}
+
+.crystal-image {
+	width: 200px;
+	height: 200px;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
